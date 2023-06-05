@@ -4,7 +4,7 @@
 
 ## What is the Spinning_Bird
 
-The Spinning_Birdis a set of front page page templates.
+The Spinning_Bird is a set of front-end pages templates.
 
 Default with search, address navigation and other functions.
 
