@@ -1,6 +1,6 @@
 # Spinning_Bird
 
-简体中文|[English](https://github.com/PJ-568/Spinning_Bird/README_English.md)
+简体中文|[English](https://github.com/PJ-568/Spinning_Bird/blob/main/README_English.md)
 
 ## 转转雀是什么
 
