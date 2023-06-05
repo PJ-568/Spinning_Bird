@@ -1,5 +1,7 @@
 # Spinning_Bird
 
+简体中文|[English](https://github.com/PJ-568/Spinning_Bird/README_English.md)
+
 ## 转转雀是什么
 
 转转雀是一组网页前端页面模板。
