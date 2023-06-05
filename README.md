@@ -14,6 +14,6 @@
 
 [演示网址](https://pj568.eu.org/Spinning_Bird/)
 
-[实例](https://pj568.eu.org/Spinning_Bird/)
+[实例](https://proxy.pj568.eu.org/)
 
 在这个同名实例中，该网页作为文件下载优化服务的前端页面。
