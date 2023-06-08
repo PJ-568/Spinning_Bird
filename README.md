@@ -19,3 +19,13 @@
 [实例](https://proxy.pj568.eu.org/)
 
 在这个同名实例中，该网页作为文件下载优化服务的前端页面。
+
+## 贡献者们
+
+> 感谢所有让这个项目变得更好的贡献者们！
+
+[![Contributors Chart](https://contrib.rocks/image?repo=PJ-568/Spinning_Bird)](https://github.com/PJ-568/Spinning_Bird/graphs/contributors)
+
+## Star历史
+
+![Star History Chart](https://api.star-history.com/svg?repos=PJ-568/Spinning_Bird&type=Date)
