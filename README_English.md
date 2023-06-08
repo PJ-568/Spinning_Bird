@@ -19,3 +19,13 @@ Default with search, address navigation and other functions.
 [Fully working example](https://proxy.pj568.eu.org/)
 
 In this example, The Spinning_Birdis acts as front-end pages for the file download optimization service.
+
+## Contributors
+
+> Thanks to all the contributors who made this project better!
+
+[![Contributors Chart](https://contrib.rocks/image?repo=PJ-568/Spinning_Bird)](https://github.com/PJ-568/Spinning_Bird/graphs/contributors)
+
+## Star History
+
+![Star History Chart](https://api.star-history.com/svg?repos=PJ-568/Spinning_Bird&type=Date)
