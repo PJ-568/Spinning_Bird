@@ -1,6 +1,10 @@
+<p align="center">
+    <img height="256" src='./img/icon.svg' />
+</p>
+
 # Spinning_Bird
 
-简体中文|[English](https://github.com/PJ-568/Spinning_Bird/blob/main/README_English.md)
+> 简体中文|[English](./README_English.md)
 
 ## 转转雀是什么
 
