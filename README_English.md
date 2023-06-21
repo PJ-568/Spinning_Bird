@@ -30,10 +30,14 @@ In this example, The Spinning_Birdis acts as front-end pages for the file downlo
 
 [![Contributors Chart](https://contrib.rocks/image?repo=PJ-568/Spinning_Bird)](https://github.com/PJ-568/Spinning_Bird/graphs/contributors)
 
-## ⭐Star History
+## 🪴Project Activity
 
-![Star History Chart](https://api.star-history.com/svg?repos=PJ-568/Spinning_Bird&type=Date)
+![Alt](https://repobeats.axiom.co/api/embed/b2619fef6056900e6fd10c71bea730969f7a3f22.svg "Repobeats analytics image")
 
 ## 📄License
 
 Licensed under the terms of [Apache License Version 2.0](http://www.apache.org/licenses/LICENSE-2.0). For full details about the license, please check the `LICENSE` file.
+
+## ⭐Star History
+
+![Star History Chart](https://api.star-history.com/svg?repos=PJ-568/Spinning_Bird&type=Date)
