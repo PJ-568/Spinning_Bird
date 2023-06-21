@@ -30,10 +30,14 @@
 
 [![Contributors Chart](https://contrib.rocks/image?repo=PJ-568/Spinning_Bird)](https://github.com/PJ-568/Spinning_Bird/graphs/contributors)
 
-## ⭐Star历史
+## 🪴项目活动
 
-![Star History Chart](https://api.star-history.com/svg?repos=PJ-568/Spinning_Bird&type=Date)
+![Alt](https://repobeats.axiom.co/api/embed/b2619fef6056900e6fd10c71bea730969f7a3f22.svg "Repobeats analytics image")
 
 ## 📄许可证
 
 本项目遵循 [Apache License Version 2.0](http://www.apache.org/licenses/LICENSE-2.0) 许可协议。如果想了解完整许可信息，请查阅 `LICENSE` 文件。
+
+## ⭐Star历史
+
+![Star History Chart](https://api.star-history.com/svg?repos=PJ-568/Spinning_Bird&type=Date)
