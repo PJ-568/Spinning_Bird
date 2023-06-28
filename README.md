@@ -15,7 +15,7 @@
 ## 📚演示
 
 <p align="center">
-    <img src="https://github.com/PJ-568/Spinning_Bird/blob/main/img/%E6%BC%94%E7%A4%BA.webp">
+    <img src="./img/%E6%BC%94%E7%A4%BA.webp">
 </p>
 
 [演示网址](https://pj568.eu.org/Spinning_Bird/)
