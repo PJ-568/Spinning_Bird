@@ -4,7 +4,9 @@
 
 # <img height="30" style="margin: -3px 5px;" src="./img/icon.svg"/>Spinning_Bird
 
-> 🌏简体中文|[English](./README_English.md)
+> 🌏简体中文 | [English](./README_English.md)
+
+> 🗃️[Github](https://github.com/PJ-568/Spinning_Bird) | [Gitee](https://gitee.com/PJ-568/Spinning_Bird)
 
 ## ❓转转雀是什么
 
