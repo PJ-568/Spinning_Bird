@@ -4,7 +4,7 @@
 
 # <img height="30" style="margin: -3px 5px;" src="./img/icon.svg"/>Spinning_Bird
 
-> 🌏[简体中文](./README.md)|English
+> 🌏[简体中文](./README.md) | English
 
 > 🗃️[Github](https://github.com/PJ-568/Spinning_Bird) | [Gitee](https://gitee.com/PJ-568/Spinning_Bird)
 
