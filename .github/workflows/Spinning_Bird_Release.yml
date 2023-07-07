@@ -20,7 +20,7 @@ jobs:
           echo '检查 tree/main：'
           ls /home/runner/tree/main
       
-      - name: Checkout release branch
+      - name: Checkout min branch
         uses: actions/checkout@v3
         with:
           ref: min
