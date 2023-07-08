@@ -6,7 +6,7 @@
 
 > 🌏[简体中文](./README.md) | English
 
-> 🗃️[Github](https://github.com/PJ-568/Spinning_Bird) | [Gitee](https://gitee.com/PJ-568/Spinning_Bird)
+> 🗃️[Github](https://github.com/PJ-568/Spinning_Bird) | [Gitee](https://gitee.com/PJ-568/Spinning_Bird) | [GitLab](https://gitlab.com/PJ-568/Spinning_Bird)
 
 ## ❓What is the Spinning_Bird
 
