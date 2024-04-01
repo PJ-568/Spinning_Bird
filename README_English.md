@@ -20,9 +20,7 @@ Default with search, address navigation and other functions.
     <img src="./img/%E6%BC%94%E7%A4%BA.webp">
 </p>
 
-[Click to see a dmonstration](https://pj568.eu.org/Spinning_Bird/)
-
-[Fully working example](https://proxy.pj568.eu.org/)
+[Fully working example](https://xn--yfr044l.pj568.sbs/)
 
 In this example, The Spinning_Birdis acts as front-end pages for the file download optimization service.
 
