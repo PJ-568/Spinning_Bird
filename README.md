@@ -42,4 +42,10 @@
 
 ## ⭐Star历史
 
-![Star History Chart](https://api.star-history.com/svg?repos=PJ-568/Spinning_Bird&type=Date)
+<a href="https://star-history.com/#PJ-568/Spinning_Bird&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=PJ-568/Spinning_Bird&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=PJ-568/Spinning_Bird&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=PJ-568/Spinning_Bird&type=Date" />
+  </picture>
+</a>
