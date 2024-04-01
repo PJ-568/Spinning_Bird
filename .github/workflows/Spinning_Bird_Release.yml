@@ -43,7 +43,7 @@ jobs:
         id: sitemap
         uses: cicirello/generate-sitemap@v1
         with:
-          base-url-path: https://pj568.eu.org/Spinning_Bird/
+          base-url-path: https://pj568.sbs/Spinning_Bird/
 
       - name: Output sitemap stats
         run: |
@@ -54,10 +54,10 @@ jobs:
       - name: Push
         run: |
           git config --global user.name "PJ569-bot"
-          git config --global user.email "LiuTian-PJ568@PJ568.eu.org"
+          git config --global user.email "LiuTian-PJ568@PJ568.sbs"
           git add -A
           git commit -m '自动 Release'
           git push
 
       - name: Ping Google
-        run: curl https://www.google.com/ping?sitemap=https://pj568.eu.org/Spinning_Bird/sitemap.xml
+        run: curl https://www.google.com/ping?sitemap=https://pj568.sbs/Spinning_Bird/sitemap.xml
